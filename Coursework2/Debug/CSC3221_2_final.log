@@ -1,0 +1,26 @@
+﻿  Bishop.cpp
+C:\Users\ryota\OneDrive\Desktop\CSC3221_2_final\CSC3221_2_final\Piece.h(23,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ryota\OneDrive\Desktop\CSC3221_2_final\CSC3221_2_final\Piece.h(23,46): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  CollisionDetection.cpp
+  Game.cpp
+C:\Users\ryota\OneDrive\Desktop\CSC3221_2_final\CSC3221_2_final\Piece.h(23,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ryota\OneDrive\Desktop\CSC3221_2_final\CSC3221_2_final\Piece.h(23,46): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ryota\OneDrive\Desktop\CSC3221_2_final\CSC3221_2_final\Game.cpp(95,14): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\ryota\OneDrive\Desktop\CSC3221_2_final\CSC3221_2_final\Piece.h(23,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ryota\OneDrive\Desktop\CSC3221_2_final\CSC3221_2_final\Piece.h(23,46): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Piece.cpp
+C:\Users\ryota\OneDrive\Desktop\CSC3221_2_final\CSC3221_2_final\Piece.h(23,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ryota\OneDrive\Desktop\CSC3221_2_final\CSC3221_2_final\Piece.h(23,46): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Position.cpp
+  Queen.cpp
+C:\Users\ryota\OneDrive\Desktop\CSC3221_2_final\CSC3221_2_final\Piece.h(23,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ryota\OneDrive\Desktop\CSC3221_2_final\CSC3221_2_final\Piece.h(23,46): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Rook.cpp
+C:\Users\ryota\OneDrive\Desktop\CSC3221_2_final\CSC3221_2_final\Piece.h(23,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ryota\OneDrive\Desktop\CSC3221_2_final\CSC3221_2_final\Piece.h(23,46): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Test.cpp
+C:\Users\ryota\OneDrive\Desktop\CSC3221_2_final\CSC3221_2_final\Piece.h(23,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ryota\OneDrive\Desktop\CSC3221_2_final\CSC3221_2_final\Piece.h(23,46): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  CSC3221_2_final.vcxproj -> C:\Users\ryota\OneDrive\Desktop\CSC3221_2_final\Debug\CSC3221_2_final.exe

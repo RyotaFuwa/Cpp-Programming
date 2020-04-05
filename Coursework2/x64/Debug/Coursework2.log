@@ -1,0 +1,27 @@
+﻿  Bishop.cpp
+C:\Users\ryota\source\repos\C++ Programming\Coursework2\Piece.h(23,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ryota\source\repos\C++ Programming\Coursework2\Piece.h(23,46): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  CollisionDetection.cpp
+  Game.cpp
+C:\Users\ryota\source\repos\C++ Programming\Coursework2\Piece.h(23,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ryota\source\repos\C++ Programming\Coursework2\Piece.h(23,46): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ryota\source\repos\C++ Programming\Coursework2\Game.cpp(62,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ryota\source\repos\C++ Programming\Coursework2\Game.cpp(79,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+C:\Users\ryota\source\repos\C++ Programming\Coursework2\Piece.h(23,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ryota\source\repos\C++ Programming\Coursework2\Piece.h(23,46): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Piece.cpp
+C:\Users\ryota\source\repos\C++ Programming\Coursework2\Piece.h(23,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ryota\source\repos\C++ Programming\Coursework2\Piece.h(23,46): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Position.cpp
+  Queen.cpp
+C:\Users\ryota\source\repos\C++ Programming\Coursework2\Piece.h(23,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ryota\source\repos\C++ Programming\Coursework2\Piece.h(23,46): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Rook.cpp
+C:\Users\ryota\source\repos\C++ Programming\Coursework2\Piece.h(23,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ryota\source\repos\C++ Programming\Coursework2\Piece.h(23,46): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Test.cpp
+C:\Users\ryota\source\repos\C++ Programming\Coursework2\Piece.h(23,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ryota\source\repos\C++ Programming\Coursework2\Piece.h(23,46): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Coursework2.vcxproj -> C:\Users\ryota\source\repos\C++ Programming\x64\Debug\Coursework2.exe
